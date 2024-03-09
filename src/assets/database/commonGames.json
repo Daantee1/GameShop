@@ -1,0 +1,62 @@
+[
+    {   
+        "id": 1,
+        "title" : "Witcher 3",
+        "price" : 60.00,
+        "imgUrl" : "/src/assets/commonGamesImg/witcher3.jpg"
+    },
+    {
+        "id": 2,
+        "title" : "Pal World",
+        "price" : 130.00,
+        "imgUrl" : "/src/assets/commonGamesImg/palworld.png"
+    },
+    {
+        "id": 3,
+        "title" : "Dragon's Dogma",
+        "price" : 250.00,
+        "imgUrl" : "/src/assets/commonGamesImg/dragonsDogma2.jpg"
+    },
+    {
+        "id": 4,
+        "title" : "Marvel Spider-Man ",
+        "price" : 100.00,
+        "imgUrl" :  "/src/assets/commonGamesImg/spiderman2.jpg"
+    },
+    {
+        "id": 5,
+        "title" : "Cuphead",
+        "price" : 80.00,
+        "imgUrl" : "/src/assets/commonGamesImg/cuphead.jpeg"
+    },
+    {
+        "id": 6,
+        "title" : "Minecraft",
+        "price" : 100.00,
+        "imgUrl" : "/src/assets/commonGamesImg/minecraft.jpg"
+    },
+    {
+        "id": 7,
+        "title" : "Baldur's Gate 3",
+        "price" : 250.00,
+        "imgUrl" : "/src/assets/commonGamesImg/baldursgate3.jpg"
+    },
+    {
+        "id": 8,
+        "title" : "Diablo IV",
+        "price" : 300.00,
+        "imgUrl" : "/src/assets/commonGamesImg/diabloIV.jpg"
+    },
+    {
+        "id": 9,
+        "title" : "Hogwart Legacy",
+        "price" : 175.00,
+        "imgUrl" : "/src/assets/commonGamesImg/hl.jpg"
+    },
+    {
+        "id": 10,
+        "title" : "Resident Evil 4",
+        "price" : 200.00,
+        "imgUrl" : "/src/assets/commonGamesImg/residentevil4.jpg"
+    }
+]
